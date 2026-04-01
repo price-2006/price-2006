@@ -13,7 +13,7 @@
 
 ---
 ## ⭐Skills
-![Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,git)
+![Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,git,java,github)
 
 
 ---
