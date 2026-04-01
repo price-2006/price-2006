@@ -3,16 +3,31 @@
 
 
 ---
-
 ## 🛠️ Tech Stack
 
-* 💻 Languages: C, C++, JavaScript, Python, Java
-* 🌐 Web: HTML, CSS, ReactJS
-* 🛢️ Tools: Git, GitHub, Linux, Wireshark, PostgreSQL, MySQL, SQLite
+### 💻 Languages
 
----
-## ⭐Skills
-![Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,python,mint,git,java,github,postgresql,mysql,sqlite,figma,linux,docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma" />
+</p>
 
 
 ---
