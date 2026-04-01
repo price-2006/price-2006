@@ -20,7 +20,6 @@
 ## 📫 Connect with Me
 
 * LinkedIn: https://linkedin.com/in/anirudh-ritesh
-* GitHub: https://github.com/price-2006
 * Email: anirudhritesh@gmail.com
 
 ---
