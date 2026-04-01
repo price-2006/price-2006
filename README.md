@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anirudh Ritesh</h1>
-<h3 align="center">🚀 Building. Learning. Evolving.</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Anirudh Ritesh&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
-<p align="center">
-  <a href="https://github.com/price-2006">
-    <img src="https://komarev.com/ghpvc/?username=price-2006&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  </a>
-</p>
 
 ---
 
