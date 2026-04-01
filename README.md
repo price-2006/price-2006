@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Anirudh_Ritesh&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Anirudh Ritesh&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 
 ---
