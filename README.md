@@ -12,7 +12,7 @@
 
 ---
 ## ⭐Skills
-![Skills](https://skillicons.dev/icons?i=c,cpp,js,python,linux,git,java,github)
+![Skills](https://skillicons.dev/icons?i=c,cpp,js,python,linux,git,java,github,postgresql,mysql,sqlite,canva,figma)
 
 
 ---
