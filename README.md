@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anirudh&nbsp;Ritesh&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=400&section=header&text=Anirudh&nbsp;Ritesh&fontSize=90&fontAlignY=45&animation=fadeIn&fontColor=ffffff"/>
 
 
 
