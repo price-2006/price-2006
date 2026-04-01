@@ -1,17 +1,11 @@
-# 👋 Hi, I'm Anirudh Ritesh
+<h1 align="center">Hi 👋, I'm Anirudh Ritesh</h1>
+<h3 align="center">🚀 Building. Learning. Evolving.</h3>
 
-🎓 CSE Student at SVNIT
-💻 Passionate about AI, Web Dev & Systems
-🚀 Currently building cool stuff and learning every day
-
----
-
-## 🧠 About Me
-
-* 🌱 Currently learning: Machine Learning & Full Stack Development
-* 🔭 Working on: AI-based Sign Language Translator
-* 🎯 Goal: Become a top software engineer
-* ⚡ Fun fact: I love building aesthetic UIs
+<p align="center">
+  <a href="https://github.com/price-2006">
+    <img src="https://komarev.com/ghpvc/?username=price-2006&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  </a>
+</p>
 
 ---
 
@@ -26,15 +20,6 @@
 ## ⭐Skills
 ![Skills](https://skillicons.dev/icons?i=c,cpp,js,python,react,git)
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=price-2006\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![Streak](https://streak-stats.demolab.com/?user=price-2006\&theme=tokyonight)
 
 ---
 
@@ -42,6 +27,7 @@
 
 * LinkedIn: https://linkedin.com/in/anirudh-ritesh
 * GitHub: https://github.com/price-2006
+* Email: anirudhritesh@gmail.com
 
 ---
 
