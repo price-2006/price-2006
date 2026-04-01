@@ -7,8 +7,7 @@
 ## 🛠️ Tech Stack
 
 * 💻 Languages: C, C++, JavaScript, Python, Java
-* 🌐 Web: HTML, CSS, React
-* 🧠 AI/ML: Basics of ML, OpenCV
+* 🌐 Web: HTML, CSS, ReactJS
 * 🛢️ Tools: Git, GitHub, Linux, Wireshark, PostgreSQL, MySQL, SQLite
 
 ---
