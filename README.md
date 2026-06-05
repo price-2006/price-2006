@@ -26,7 +26,7 @@
 ### ⚙️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,opencv,ubuntu,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,opencv,ubuntu" />
 </p>
 
 
