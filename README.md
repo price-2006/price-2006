@@ -14,7 +14,7 @@
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular" />
 </p>
 
 ### 🗄️ Databases
@@ -26,7 +26,7 @@
 ### ⚙️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,angular,figma,opencv,ubuntu,pytorch" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,opencv,ubuntu,pytorch" />
 </p>
 
 
